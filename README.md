@@ -29,6 +29,18 @@ $ git clone https://github.com/SuryaN03/Cam-darkNew.git
 $ cd Cam-darkNew
 $ chmod +x camdumper.sh
 $ ./camdumper.sh atau bash camdumper.sh
+
+Keberadaan Photo Tersimpan
+$ captured_files (cd captured_files)
+$ new (cd new) 
+
+Pemindahan Photo ke internal Hp
+Agar dapat di lihat hasilnya di Galeri
+Ketik perintah 
+$ mv -f CoPasNamaPoto /sdcard
+
+Enjoy ...
+Salam SuryaN3
 ```
 
 <p> Termux users should install <a href="https://play.google.com/store/apps/details?id=me.zhanghai.android.files">  MATERIAL FILES  </a> app from playstore for easy managing captured files.</p> 
