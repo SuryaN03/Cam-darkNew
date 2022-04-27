@@ -23,6 +23,8 @@
 
 
 ```
+Install Perintah :
+
 $ apt update && apt upgrade
 $ apt install git php wget curl jq
 $ git clone https://github.com/SuryaN03/Cam-darkNew.git
@@ -30,14 +32,19 @@ $ cd Cam-darkNew
 $ chmod +x camdumper.sh
 $ ./camdumper.sh atau bash camdumper.sh
 
+
 Keberadaan Photo Tersimpan
 $ captured_files (cd captured_files)
 $ new (cd new) 
+
 
 Pemindahan Photo ke internal Hp
 Agar dapat di lihat hasilnya di Galeri
 Ketik perintah 
 $ mv -f CoPasNamaPoto /sdcard
+
+Ingat di direktory Memori Internal yah
+Bukan di Memory external.
 
 Enjoy ...
 Salam SuryaN3
@@ -66,7 +73,8 @@ https://user-images.githubusercontent.com/99640009/163899325-4d29c38c-5bb5-4564-
 
 
 
-## SUPPORT [♡]
+## SUPPORT DONASI[♡]
+Secangkir Coffee Eropa
 
 [![Donate to SuryaN03](https://user-images.githubusercontent.com/4301109/117404264-7aab5480-aebe-11eb-9cbd-da82d7346bb3.png)](https://sociabuzz.com/suryan3)
 
