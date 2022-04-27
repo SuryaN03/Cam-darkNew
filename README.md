@@ -1,5 +1,5 @@
 <h1 align="center">CAM-DUMPER</h1>
-<p align="center"><img src="cd.gif" max-width="90%%" height="auto"></p>
+<p align="center"><img src="cd.gif" max-width="100%%" height="auto"></p>
 <p align="center">Take webcam shots from target by just sending a malicious link</p>
 
 # How it works?
