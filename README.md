@@ -2,6 +2,7 @@
 <p align="center"><img src="cd.gif" max-width="100%%" height="auto"></p>
 <p align="center">Take webcam shots from target by just sending a malicious link</p>
 
+
 # How it works?
 <p>The tool generates a malicious HTTPS page using Serveo or Ngrok Port Forwarding methods, and a javascript code to cam requests using MediaDevices.getUserMedia. </p>
 
@@ -25,9 +26,9 @@
 $ apt update && apt upgrade
 $ apt install git php wget curl jq
 $ git clone https://github.com/SuryaN03/Cam-darkNew.git
-$ cd CAM-DUMPER
+$ cd Cam-darkNew
 $ chmod +x camdumper.sh
-$ ./camdumper.sh
+$ ./camdumper.sh atau bash camdumper.sh
 ```
 
 <p> Termux users should install <a href="https://play.google.com/store/apps/details?id=me.zhanghai.android.files">  MATERIAL FILES  </a> app from playstore for easy managing captured files.</p> 
@@ -46,7 +47,7 @@ https://user-images.githubusercontent.com/99640009/163928347-fa74ab3f-3e7e-40de-
 
 
 
-## WHOAMI
+## WHOAMI ?
 
 https://user-images.githubusercontent.com/99640009/163899325-4d29c38c-5bb5-4564-95c8-3cdc44896ae9.mp4
 
