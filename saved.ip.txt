@@ -1,0 +1,54 @@
+IP: 115.178.211.16
+ User-Agent: WhatsApp/2.22.2.73 AIP: 182.0.205.96
+ User-Agent: Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A025F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/16.0 Chrome/92.0.4515.166 Mobile Safari/537.36IP: 182.0.201.240
+ User-Agent: Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A025F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/16.2 Chrome/92.0.4515.166 Mobile Safari/537.36IP: 115.178.211.16
+ User-Agent: WhatsApp/2.22.2.73 AIP: 182.0.205.96
+ User-Agent: Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A025F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/16.2 Chrome/92.0.4515.166 Mobile Safari/537.36IP: 115.178.200.80
+ User-Agent: WhatsApp/2.22.2.73 AIP: 140.213.9.119
+ User-Agent: Mozilla/5.0 (Linux; U; Android 10; en-US; RMX2030 Build/QKQ1.200209.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.3904.108 UCBrowser/13.4.0.1306 Mobile Safari/537.36IP: 140.213.9.119
+ User-Agent: Mozilla/5.0 (Linux; U; Android 10; in-id; RMX2030 Build/QKQ1.200209.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.116 Mobile Safari/537.36 HeyTapBrowser/45.8.3.1IP: 115.178.200.80
+ User-Agent: WhatsApp/2.22.2.73 AIP: 115.178.211.16
+ User-Agent: WhatsApp/2.22.2.73 AIP: 115.178.210.47
+ User-Agent: WhatsApp/2.22.2.73 AIP: 182.2.165.26
+ User-Agent: Mozilla/5.0 (Linux; U; Android 10; in-id; CPH2239 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/70.0.3538.80 Mobile Safari/537.36 HeyTapBrowser/45.7.1.9IP: 115.178.210.47
+ User-Agent: WhatsApp/2.22.2.73 AIP: 140.213.232.222
+ User-Agent: Mozilla/5.0 (Linux; Android 5.1.1; A37f) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.74 Mobile Safari/537.36IP: 113.197.108.36
+ User-Agent: Mozilla/5.0 (Linux; Android 12; SM-G973U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.101 Mobile Safari/537.36IP: 115.178.193.179
+ User-Agent: WhatsApp/2.22.2.73 AIP: 115.178.193.179
+ User-Agent: WhatsApp/2.22.2.73 AIP: 114.79.3.191
+ User-Agent: WhatsApp/2.22.2.73 AIP: 182.0.172.206
+ User-Agent: Mozilla/5.0 (Linux; U; Android 8.1.0; in-id; CPH1909 Build/O11019) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.116 Mobile Safari/537.36 HeyTapBrowser/15.8.3.1IP: 114.79.2.227
+ User-Agent: WhatsApp/2.22.2.73 AIP: 114.79.6.99
+ User-Agent: WhatsApp/2.22.2.73 AIP: 114.79.6.99
+ User-Agent: WhatsApp/2.22.2.73 AIP: 114.79.1.247
+ User-Agent: WhatsApp/2.22.2.73 AIP: 140.213.13.142
+ User-Agent: Mozilla/5.0 (Linux; Android 5.1.1; A37f Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Mobile Safari/537.36 OPR/37.0.2192.110129IP: 114.79.1.247
+ User-Agent: WhatsApp/2.22.2.73 AIP: 115.178.196.101
+ User-Agent: WhatsApp/2.22.2.73 AIP: 115.178.196.101
+ User-Agent: WhatsApp/2.22.2.73 AIP: 115.178.213.179
+ User-Agent: WhatsApp/2.22.2.73 AIP: 115.178.196.101
+ User-Agent: WhatsApp/2.22.2.73 AIP: 115.178.196.101
+ User-Agent: WhatsApp/2.22.2.73 AIP: 115.178.196.101
+ User-Agent: WhatsApp/2.22.2.73 AIP: 115.178.196.101
+ User-Agent: WhatsApp/2.22.2.73 AIP: 114.5.250.145
+ User-Agent: Mozilla/5.0 (Linux; U; Android 7.1.2; id-id; Redmi 5 Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.146 Mobile Safari/537.36 XiaoMi/MiuiBrowser/9.5.6IP: 115.178.196.101
+ User-Agent: Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A025F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/16.2 Chrome/92.0.4515.166 Mobile Safari/537.36IP: 115.178.196.101
+ User-Agent: Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A025F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/16.2 Chrome/92.0.4515.166 Mobile Safari/537.36IP: 114.79.0.248
+ User-Agent: Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A025F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/16.2 Chrome/92.0.4515.166 Mobile Safari/537.36IP: 114.79.4.60
+ User-Agent: Mozilla/5.0 (Android 11; Mobile; rv:99.0) Gecko/99.0 Firefox/99.0IP: 114.79.47.220
+ User-Agent: WhatsApp/2.22.2.73 AIP: 180.214.233.83
+ User-Agent: Mozilla/5.0 (Linux; U; Android 8.1.0; in-id; CPH1901 Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/15.8.4.2IP: 114.79.47.36
+ User-Agent: WhatsApp/2.22.2.73 AIP: 110.50.81.198
+ User-Agent: Mozilla/5.0 (Linux; Android 12; SM-G991U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.88 Mobile Safari/537.36IP: 103.143.100.252
+ User-Agent: Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A025F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/16.2 Chrome/92.0.4515.166 Mobile Safari/537.36IP: 103.143.100.252
+ User-Agent: Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A025F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/16.2 Chrome/92.0.4515.166 Mobile Safari/537.36IP: 103.143.100.252
+ User-Agent: Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A025F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/16.2 Chrome/92.0.4515.166 Mobile Safari/537.36IP: 103.143.100.252
+ User-Agent: Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A025F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/16.2 Chrome/92.0.4515.166 Mobile Safari/537.36IP: 103.143.100.252
+ User-Agent: Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A025F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/16.2 Chrome/92.0.4515.166 Mobile Safari/537.36IP: 103.143.100.252
+ User-Agent: Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A025F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/16.2 Chrome/92.0.4515.166 Mobile Safari/537.36IP: 103.143.100.252
+ User-Agent: Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A025F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/16.2 Chrome/92.0.4515.166 Mobile Safari/537.36IP: 103.143.100.252
+ User-Agent: Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A025F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/16.2 Chrome/92.0.4515.166 Mobile Safari/537.36IP: 103.143.100.252
+ User-Agent: Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A025F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/16.2 Chrome/92.0.4515.166 Mobile Safari/537.36IP: 103.143.100.252
+ User-Agent: Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A025F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/16.2 Chrome/92.0.4515.166 Mobile Safari/537.36IP: 103.143.100.252
+ User-Agent: Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A025F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/16.2 Chrome/92.0.4515.166 Mobile Safari/537.36IP: 103.143.100.252
+ User-Agent: Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A025F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/16.2 Chrome/92.0.4515.166 Mobile Safari/537.36
